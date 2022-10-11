@@ -38,3 +38,5 @@ public class Stock implements Serializable {
 	}
 
 }
+
+//a7la stock
